@@ -1,6 +1,8 @@
 # flutter_app_whether
 
-A new Flutter application.
+A new Flutter application based on whether.
+![alt text](https://github.com/juhilsomaiya/flutter_app_whether/blob/master/assets/Whether_UI.png)
+
 
 ## Getting Started
 
