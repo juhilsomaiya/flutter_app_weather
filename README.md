@@ -1,6 +1,6 @@
-# flutter_app_whether
+# flutter_app_weather
 
-A new Flutter application based on whether.
+A new Flutter application based on weather.
 ![alt text](https://github.com/juhilsomaiya/flutter_app_whether/blob/master/assets/Whether_UI.png)
 
 
